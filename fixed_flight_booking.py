@@ -38,4 +38,4 @@ class Flight:
 
     # フライトの乗客リストを全てクリア
     def clear_all_passengers(self):
-        self
+        return self
