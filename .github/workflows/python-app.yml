@@ -5,9 +5,9 @@ name: Python application test
 
 on:
   push:
-    branches: [ main ]
+    branches: [ aoki_test ]
   pull_request:
-    branches: [ main ]
+    branches: [ aoki_test ]
 
 jobs:
   build:
