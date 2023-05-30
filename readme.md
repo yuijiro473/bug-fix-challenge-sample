@@ -10,6 +10,9 @@
 git clone https://github.com/yuijiro473/bug-fix-challenge-sample
 ```
 
+2. 以下の規則に従い、ブランチを作成してください。
+ブランチ名：`{ユーザー名}-bug-fix`
+
 ## チャレンジの開始
 
 1. `buggy_flight_booking.py`という名前のファイルにバグが存在します。このバグを見つけて修正してください。
